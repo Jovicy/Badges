@@ -86,6 +86,11 @@ section::after {
     margin-right: 10px;
 }
 
+.imgbx img:hover {
+    transform: scale(1.5);
+    padding: 2px;
+}
+
 .box .list .imgbx img {
     position: absolute;
     top: 0;
